@@ -1,0 +1,11 @@
+Algoritmo ejercicio_2_diapositiva_1
+	//definir variable 
+	definir edad Como Entero
+	//asignar valores 
+	edad<- 22
+	//procesar datos 
+	mensaje<- 'tienes '+ConvertirATexto(edad) +' años'
+	//mostrar reultado
+	escribir mensaje
+	
+FinAlgoritmo

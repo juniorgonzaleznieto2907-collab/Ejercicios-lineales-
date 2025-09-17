@@ -1,0 +1,10 @@
+Algoritmo ejercicio_5_diapositiva_1
+	//definir variable
+	definir letra como caracter 
+	//asingnar valores 
+	letra<- k
+	//procesar datos 
+	mensaje<- 'la letra asignada es k'
+	//mostrar resultado
+	escribir mensaje 
+FinAlgoritmo

@@ -1,0 +1,12 @@
+Algoritmo ejeercicio_4_diapositiva_1
+	//asignar variable
+	definir esEstudiande Como caracter
+	//asignar valores 
+	esEstudiandeV<-"Verdadero"
+	esEstudiandeF<-"falso"
+	//procesar datos 
+	mensaje<- '¿es usted estudiante?" +esEstudiandeV
+	//mostrar respuesta 
+	escribir mensaje
+
+FinAlgoritmo

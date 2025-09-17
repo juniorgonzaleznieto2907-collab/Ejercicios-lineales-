@@ -1,0 +1,11 @@
+Algoritmo ejercicio_3_diapositiva_1
+	//definir variable 
+	definir precio como real 
+	//asignar valores 
+	precio<- 4.25
+	//procesar datos 
+	mensaje <- 'el precio del articulo es ' +ConvertirATexto(precio)
+	//mostrar datos
+	escribir mensaje 
+	
+FinAlgoritmo

@@ -1,0 +1,13 @@
+Algoritmo ejercicio_1_diapositiva_1
+	//definir variable 
+	definir nombre como caracter 
+	definir apellido como caracter 
+	//asignar valores 
+	nombre<- 'neyder'
+	apellido<- 'gonzalez'
+	//procesar datos 
+	mensaje<-'bienbenido usuario: '+nombre+' '+apellido
+	//mostrar respuesta 
+	escribir mensaje 
+	
+FinAlgoritmo

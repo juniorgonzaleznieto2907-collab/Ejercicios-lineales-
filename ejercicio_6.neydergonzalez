@@ -1,0 +1,12 @@
+Algoritmo ejercicio_1_diapositiva_2
+	// definir variable
+	Definir peso Como Real
+	Definir altura Como Real
+	// asignar valores 
+	peso <- 75
+	altura <- 1.72
+	// procesar datos 
+	Imc <- eso/(altura)
+	// mostrar resultado
+	Escribir mc
+FinAlgoritmo
